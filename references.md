@@ -1,3 +1,4 @@
+
 This is a conflicting text
 
 
@@ -9,3 +10,4 @@ This is a conflicting text
 
 
 Kunwaring commit message
+
